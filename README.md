@@ -1,6 +1,8 @@
 # Mind Twist: Words and Colors
 
-Welcome to **Mind Twist: Words and Colors**, a fun and interactive game designed to challenge your focus and quick thinking! Test your ability to correctly identify words or colors under time pressure. Choose your preferred game mode and see how high you can score!
+Welcome to **Mind Twist: Words and Colors**, stranger! :)
+
+This is fun and interactive game designed to challenge your focus and quick thinking! Test your ability to correctly identify words or colors under time pressure. Choose your preferred game mode and see how high you can score!
 
 ---
 
