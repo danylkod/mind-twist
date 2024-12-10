@@ -1,4 +1,4 @@
-# Mind Twist: Words and Colors
+# 🔮 Mind Twist: Words and Colors 🔮
 
 Welcome to **Mind Twist: Words and Colors**, stranger! 🙂👋🏻
 
@@ -6,7 +6,7 @@ This is fun and interactive game designed to challenge your focus and quick thin
 
 ---
 
-## Features
+## 📖 Features 📖
 
 - **Three Game Modes**:
   - **Words**: Identify and type the word displayed.
@@ -21,7 +21,7 @@ This is fun and interactive game designed to challenge your focus and quick thin
 
 ---
 
-## How to Play
+## 🎮 How to Play 🎮
 
 1. **Start the Game**:
 
@@ -45,14 +45,14 @@ This is fun and interactive game designed to challenge your focus and quick thin
 
 ---
 
-## Installation and Requirements
+## 🔧 Installation and Requirements 🔧
 
-### Prerequisites
+### ✅ Prerequisites ✅
 
 - Python 3.7 or later
 - `tkinter` (pre-installed with Python on most systems)
 
-### Steps to Run
+### 🏃‍➡️ Steps to Run 🏃‍➡️
 
 1. Clone or download this repository to your local machine.
 2. Open a terminal in the project directory.
@@ -66,7 +66,7 @@ python mind_twist.py
 
 ---
 
-## File structure
+## 📁 File structure 📁
 
 ```bash
 mind_twist.py # The main game file.
@@ -75,14 +75,14 @@ highest_scores.txt # Stores the highest scores for each game mode. This file wil
 
 ---
 
-## Key Bindings
+## 🎹 Key Bindings 🎹
 
 - **Q**: Start the game.
 - **Enter**: Submit your answer.
 
 ---
 
-## Scoring System
+## 🎖️ Scoring System 🎖️
 
 - **Correct Answer**: +1 point.
 - **Incorrect Answer**: No points are awarded.
@@ -91,7 +91,7 @@ The highest scores for each mode are saved and displayed at the end of the game.
 
 ---
 
-## Credits
+## 🩻 Credits 🩻
 
 - Developed using **Python** and **Tkinter**.
 - Inspired by Stroop effect cognitive psychology experiments.
