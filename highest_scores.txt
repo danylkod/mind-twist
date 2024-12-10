@@ -1,0 +1,3 @@
+colors:16
+words:22
+mix:4
